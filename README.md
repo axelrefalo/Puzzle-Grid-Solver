@@ -1,4 +1,4 @@
-# Grid-Puzzles-Solvers
+# Puzzle-Grid-Solver
 
 Set of algorithm (written in c++) that can solve Sudoku, Suguru, Killer Sudoku and Kakuro puzzles, using the backtracking method
 
